@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "k7a2:blocks/dhphuc_leaves",
+    "particle": "k7a2:blocks/dhphuc_leaves"
+  }
+}

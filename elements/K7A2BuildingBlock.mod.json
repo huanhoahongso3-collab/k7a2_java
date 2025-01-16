@@ -1,0 +1,11 @@
+{
+  "_fv": 33,
+  "_type": "tab",
+  "definition": {
+    "name": "K7A2 Building Block",
+    "icon": {
+      "value": "CUSTOM:BlockofK7A2"
+    },
+    "showSearch": true
+  }
+}

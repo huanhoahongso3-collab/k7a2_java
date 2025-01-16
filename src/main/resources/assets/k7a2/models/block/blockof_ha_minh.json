@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2:blocks/_haminh",
+    "up": "k7a2:blocks/_haminh",
+    "north": "k7a2:blocks/_haminh",
+    "east": "k7a2:blocks/_haminh",
+    "south": "k7a2:blocks/_haminh",
+    "west": "k7a2:blocks/_haminh",
+    "particle": "k7a2:blocks/_haminh"
+  }
+}

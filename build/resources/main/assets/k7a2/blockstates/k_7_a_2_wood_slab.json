@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "k7a2:block/k_7_a_2_wood_slab"
+    },
+    "type=top": {
+      "model": "k7a2:block/k_7_a_2_wood_slab_top"
+    },
+    "type=double": {
+      "model": "k7a2:block/k_7_a_2_wood_slab_full"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2:blocks/_dangminh",
+    "up": "k7a2:blocks/_dangminh",
+    "north": "k7a2:blocks/_dangminh",
+    "east": "k7a2:blocks/_dangminh",
+    "south": "k7a2:blocks/_dangminh",
+    "west": "k7a2:blocks/_dangminh",
+    "particle": "k7a2:blocks/_dangminh"
+  }
+}

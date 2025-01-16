@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "k7a2:block/dh_phuc_slab"
+    },
+    "type=top": {
+      "model": "k7a2:block/dh_phuc_slab_top"
+    },
+    "type=double": {
+      "model": "k7a2:block/dh_phuc_slab_full"
+    }
+  }
+}

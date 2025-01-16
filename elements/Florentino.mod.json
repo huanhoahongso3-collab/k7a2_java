@@ -1,0 +1,19 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "images",
+    "name": "Florentino",
+    "description": "Than thung nhin em quay got di mai...",
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "music": {
+      "value": "CUSTOM:florentino"
+    },
+    "specialInfo": [
+      "Where is Lam???"
+    ],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "27bdc67fef29c7928298c5759de08534",
+    "name": "Thi�n L� Oi",
+    "description": "Jack 5 cu",
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "music": {
+      "value": "CUSTOM:thienlyoi"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netherite_axe",
+    "customModelName": "Normal",
+    "name": "K7A2 Axe",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "toolType": "Axe",
+    "harvestLevel": 7,
+    "efficiency": 56201.0,
+    "attackSpeed": 1.25,
+    "enchantability": 25,
+    "damageVsEntity": 10.5,
+    "usageCount": 5610,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SuperK7A2Ingot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

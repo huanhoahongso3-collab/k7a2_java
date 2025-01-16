@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0"
+  ],
+  "key": {
+    "0": {
+      "item": "k7a2:blockof_k_7_a_2"
+    }
+  },
+  "result": {
+    "item": "k7a2:k_7_a_2ingot",
+    "count": 4
+  }
+}

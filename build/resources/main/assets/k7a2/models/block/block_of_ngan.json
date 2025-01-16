@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2:blocks/_ngan",
+    "up": "k7a2:blocks/_ngan",
+    "north": "k7a2:blocks/_ngan",
+    "east": "k7a2:blocks/_ngan",
+    "south": "k7a2:blocks/_ngan",
+    "west": "k7a2:blocks/_ngan",
+    "particle": "k7a2:blocks/_ngan"
+  }
+}

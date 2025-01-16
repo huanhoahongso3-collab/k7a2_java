@@ -1,0 +1,48 @@
+{
+  "multipart": [
+    {
+      "apply": {
+        "model": "k7a2:block/k_7_a_2_wood_fence_post"
+      }
+    },
+    {
+      "when": {
+        "north": "true"
+      },
+      "apply": {
+        "model": "k7a2:block/k_7_a_2_wood_fence",
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "south": "true"
+      },
+      "apply": {
+        "model": "k7a2:block/k_7_a_2_wood_fence",
+        "y": 180,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "west": "true"
+      },
+      "apply": {
+        "model": "k7a2:block/k_7_a_2_wood_fence",
+        "y": 270,
+        "uvlock": true
+      }
+    },
+    {
+      "when": {
+        "east": "true"
+      },
+      "apply": {
+        "model": "k7a2:block/k_7_a_2_wood_fence",
+        "y": 90,
+        "uvlock": true
+      }
+    }
+  ]
+}

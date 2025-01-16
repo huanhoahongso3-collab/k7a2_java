@@ -1,0 +1,32 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0  ",
+    "34 ",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "k7a2:k_7_a_2_wood_planks"
+    },
+    "3": {
+      "item": "k7a2:k_7_a_2_wood_planks"
+    },
+    "4": {
+      "item": "k7a2:k_7_a_2_wood_planks"
+    },
+    "6": {
+      "item": "k7a2:k_7_a_2_wood_planks"
+    },
+    "7": {
+      "item": "k7a2:k_7_a_2_wood_planks"
+    },
+    "8": {
+      "item": "k7a2:k_7_a_2_wood_planks"
+    }
+  },
+  "result": {
+    "item": "k7a2:k_7_a_2_wood_stairs",
+    "count": 4
+  }
+}

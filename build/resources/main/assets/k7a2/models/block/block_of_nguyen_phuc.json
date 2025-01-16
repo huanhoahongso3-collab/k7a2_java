@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2:blocks/_nguyenphuc",
+    "up": "k7a2:blocks/_nguyenphuc",
+    "north": "k7a2:blocks/_nguyenphuc",
+    "east": "k7a2:blocks/_nguyenphuc",
+    "south": "k7a2:blocks/_nguyenphuc",
+    "west": "k7a2:blocks/_nguyenphuc",
+    "particle": "k7a2:blocks/_nguyenphuc"
+  }
+}

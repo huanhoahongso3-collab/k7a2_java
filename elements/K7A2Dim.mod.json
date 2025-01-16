@@ -1,0 +1,42 @@
+{
+  "_fv": 33,
+  "_type": "dimension",
+  "definition": {
+    "biomesInDimension": [
+      {
+        "value": "CUSTOM:K7A2Biome"
+      }
+    ],
+    "worldGenType": "Normal world gen",
+    "mainFillerBlock": {
+      "value": "CUSTOM:BlockofK7A2"
+    },
+    "fluidBlock": {
+      "value": "CUSTOM:K7A2PortalBlock"
+    },
+    "canRespawnHere": true,
+    "hasFog": true,
+    "isDark": false,
+    "doesWaterVaporize": false,
+    "sleepResult": "ALLOW",
+    "hasSkyLight": true,
+    "imitateOverworldBehaviour": true,
+    "portalFrame": {
+      "value": "CUSTOM:K7A2PortalBlock"
+    },
+    "portalParticles": {
+      "value": "PORTAL"
+    },
+    "portalLuminance": 10,
+    "portalSound": {
+      "value": "block.portal.ambient"
+    },
+    "igniterName": "K7A2 Dim Portal Igniter",
+    "igniterTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "texture": "dab3q3s-5733733a-304b-4124-aa0c-4023cca57678-removebg-preview",
+    "portalTexture": "cherry",
+    "enablePortal": true
+  }
+}

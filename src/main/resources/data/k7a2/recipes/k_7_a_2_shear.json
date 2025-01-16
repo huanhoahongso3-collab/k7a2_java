@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "2": {
+      "item": "k7a2:k_7_a_2ingot"
+    }
+  },
+  "result": {
+    "item": "k7a2:k_7_a_2_shears",
+    "count": 1
+  }
+}

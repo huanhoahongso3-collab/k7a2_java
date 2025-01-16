@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012"
+  ],
+  "key": {
+    "0": {
+      "item": "k7a2:dh_phuc_planks"
+    },
+    "1": {
+      "item": "k7a2:dh_phuc_planks"
+    },
+    "2": {
+      "item": "k7a2:dh_phuc_planks"
+    }
+  },
+  "result": {
+    "item": "k7a2:dh_phuc_slab",
+    "count": 6
+  }
+}

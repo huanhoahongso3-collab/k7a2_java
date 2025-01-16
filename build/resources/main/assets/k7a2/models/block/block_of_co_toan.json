@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2:blocks/toan3",
+    "up": "k7a2:blocks/toan3",
+    "north": "k7a2:blocks/toan3",
+    "east": "k7a2:blocks/toan3",
+    "south": "k7a2:blocks/toan3",
+    "west": "k7a2:blocks/toan3",
+    "particle": "k7a2:blocks/toan3"
+  }
+}

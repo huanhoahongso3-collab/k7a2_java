@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "k7a2_helmet_new",
+    "name": "K7A2 Mixed Disc",
+    "description": "K7A2 Mixed Disc",
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "music": {
+      "value": "CUSTOM:k7a2_mixed_voice"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": "CUSTOM:K7A2Nugget"
+      },
+      {
+        "value": "CUSTOM:K7A2Nugget"
+      },
+      {
+        "value": "CUSTOM:K7A2Nugget"
+      },
+      {
+        "value": "CUSTOM:K7A2Nugget"
+      },
+      {
+        "value": "Items.GOLDEN_APPLE#1"
+      },
+      {
+        "value": "CUSTOM:K7A2Nugget"
+      },
+      {
+        "value": "CUSTOM:K7A2Nugget"
+      },
+      {
+        "value": "CUSTOM:K7A2Nugget"
+      },
+      {
+        "value": "CUSTOM:K7A2Nugget"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:K7A2Apple"
+    },
+    "name": "k_7_a_2_appl",
+    "namespace": "mod"
+  }
+}

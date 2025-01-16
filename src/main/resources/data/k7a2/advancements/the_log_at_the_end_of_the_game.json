@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2:k_7_a_2_wood_log"
+    },
+    "title": {
+      "translate": "advancements.the_log_at_the_end_of_the_game.title"
+    },
+    "description": {
+      "translate": "advancements.the_log_at_the_end_of_the_game.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "the_log_at_the_end_of_the_game": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "k7a2:k_7_a_2_wood_log",
+            "count": {
+              "min": 1,
+              "max": 999999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1000
+  },
+  "parent": "k7a2:welcome_to_k_7_a_2_dim"
+}

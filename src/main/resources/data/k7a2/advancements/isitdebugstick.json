@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2:k_7_a_2_stick"
+    },
+    "title": {
+      "translate": "advancements.isitdebugstick.title"
+    },
+    "description": {
+      "translate": "advancements.isitdebugstick.descr"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "isitdebugstick": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "k7a2:k_7_a_2_stick",
+            "count": {
+              "min": 1,
+              "max": 999999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 1
+  },
+  "parent": "k7a2:welcometo_k_7_a_2"
+}

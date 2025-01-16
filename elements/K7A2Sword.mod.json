@@ -1,0 +1,31 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "netherite_sword",
+    "customModelName": "Normal",
+    "name": "K7A2 Sword",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 7,
+    "efficiency": 56201.0,
+    "attackSpeed": 1.75,
+    "enchantability": 25,
+    "damageVsEntity": 10.5,
+    "usageCount": 5610,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:SuperK7A2Ingot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "_fv": 33,
+  "_type": "potion",
+  "definition": {
+    "potionName": "Potion Of K7A2 Damage",
+    "splashName": "Splash Potion Of K7A2 Damage",
+    "lingeringName": "Lingering Potion Of K7A2 Damage",
+    "arrowName": "Arrow of Potion Of K7A2 Damage",
+    "effects": [
+      {
+        "effect": {
+          "value": "CUSTOM:PotionOfK7A2Dam"
+        },
+        "duration": 3600,
+        "amplifier": 0,
+        "ambient": false,
+        "showParticles": true
+      }
+    ]
+  }
+}

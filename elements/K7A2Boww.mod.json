@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:K7A2Stick"
+      },
+      {
+        "value": "CUSTOM:K7A2ingot"
+      },
+      {
+        "value": "CUSTOM:K7A2Stick"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:K7A2ingot"
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:K7A2Stick"
+      },
+      {
+        "value": "CUSTOM:K7A2ingot"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:OPBow"
+    },
+    "name": "k_7_a_2_boww",
+    "namespace": "mod"
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "images_1",
+    "name": "Enderman Hack Windows 10 S",
+    "description": "Music of video Enderman Hacking Windows 10 S",
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "music": {
+      "value": "CUSTOM:endermanhackwin10s"
+    },
+    "specialInfo": [
+      "Its music is very good!!"
+    ],
+    "hasGlow": false
+  }
+}

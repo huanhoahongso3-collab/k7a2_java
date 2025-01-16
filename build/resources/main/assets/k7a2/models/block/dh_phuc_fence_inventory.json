@@ -1,0 +1,7 @@
+{
+  "parent": "block/fence_inventory",
+  "textures": {
+    "texture": "k7a2:blocks/dhphuc_planks",
+    "particle": "k7a2:blocks/dhphuc_planks"
+  }
+}

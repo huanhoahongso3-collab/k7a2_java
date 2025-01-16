@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2:blocks/_lam",
+    "up": "k7a2:blocks/_lam",
+    "north": "k7a2:blocks/_lam",
+    "east": "k7a2:blocks/_lam",
+    "south": "k7a2:blocks/_lam",
+    "west": "k7a2:blocks/_lam",
+    "particle": "k7a2:blocks/_lam"
+  }
+}

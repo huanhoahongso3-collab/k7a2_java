@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:dhphuc_log"
+    }
+  ],
+  "result": {
+    "item": "k7a2:dh_phuc_planks",
+    "count": 4
+  }
+}

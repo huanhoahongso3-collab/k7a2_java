@@ -1,0 +1,17 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "67616d0000b2736c9542310b44d4d1",
+    "name": "If I Am With You",
+    "description": "Nothing",
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "music": {
+      "value": "CUSTOM:ifiamwithyou"
+    },
+    "specialInfo": [],
+    "hasGlow": false
+  }
+}

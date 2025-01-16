@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2:blocks/_phuong",
+    "up": "k7a2:blocks/_phuong",
+    "north": "k7a2:blocks/_phuong",
+    "east": "k7a2:blocks/_phuong",
+    "south": "k7a2:blocks/_phuong",
+    "west": "k7a2:blocks/_phuong",
+    "particle": "k7a2:blocks/_phuong"
+  }
+}

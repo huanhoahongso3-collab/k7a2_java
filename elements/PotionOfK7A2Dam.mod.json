@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "Emotional Damage",
+    "icon": "removal.ai_3cd549b2-8d8d-4305-821c-649f7ecfa191-st-large-507x507-pad-600x600-f8f8f8.png",
+    "color": {
+      "value": -1103195,
+      "falpha": 0.0
+    },
+    "isInstant": false,
+    "isBad": true,
+    "isBenefitical": false,
+    "renderStatusInInventory": false,
+    "renderStatusInHUD": false,
+    "onStarted": {
+      "name": "PotionOfK7A2DamPotionStartedapplied"
+    }
+  }
+}

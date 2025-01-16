@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "k7a2:k_7_a_2_nugget"
+    },
+    "1": {
+      "item": "k7a2:k_7_a_2_nugget"
+    },
+    "2": {
+      "item": "k7a2:k_7_a_2_nugget"
+    },
+    "3": {
+      "item": "k7a2:k_7_a_2_nugget"
+    },
+    "4": {
+      "item": "minecraft:enchanted_golden_apple"
+    },
+    "5": {
+      "item": "k7a2:k_7_a_2_nugget"
+    },
+    "6": {
+      "item": "k7a2:k_7_a_2_nugget"
+    },
+    "7": {
+      "item": "k7a2:k_7_a_2_nugget"
+    },
+    "8": {
+      "item": "k7a2:k_7_a_2_nugget"
+    }
+  },
+  "result": {
+    "item": "k7a2:k_7_a_2_apple",
+    "count": 1
+  }
+}

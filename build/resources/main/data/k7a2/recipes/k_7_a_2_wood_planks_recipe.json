@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "tag": "forge:k7a2wood_log"
+    }
+  ],
+  "result": {
+    "item": "k7a2:k_7_a_2_wood_planks",
+    "count": 4
+  }
+}

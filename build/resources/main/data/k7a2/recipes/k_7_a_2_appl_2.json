@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "1": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "2": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "3": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "4": {
+      "item": "minecraft:apple"
+    },
+    "5": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "6": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "7": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "8": {
+      "item": "k7a2:k_7_a_2ingot"
+    }
+  },
+  "result": {
+    "item": "k7a2:k_7_a_2_apple",
+    "count": 1
+  }
+}

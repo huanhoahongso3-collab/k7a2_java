@@ -1,0 +1,26 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="Dao Hong Phuc, K7A2, CBH"
+
+[[mods]]
+modId="k7a2"
+version="5.5.4"
+displayName="k7a2"
+credits="Thank all of you for playing and contributing, people!"
+displayURL="https://phucdh0110.is-best.net"
+logoFile="logo.png"
+authors="Dao Hong Phuc"
+description='''
+K7A2 CBH mod made to work on MC
+'''
+
+[[dependencies.k7a2]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+

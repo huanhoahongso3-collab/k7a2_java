@@ -1,0 +1,457 @@
+{
+  "flashmobcbh": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "k7a2:hanhkhuccbh",
+        "stream": true
+      }
+    ]
+  },
+  "florentino": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "k7a2:yt1s.com-beat-doan-tuyet-nang-di-ver2-remix-nhac-nen-florentino-tesla-khong-loi-hot-tiktok-2022",
+        "stream": true
+      }
+    ]
+  },
+  "magaming": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "k7a2:yt1s.com-ma-gaming-rap-autotune",
+        "stream": true
+      }
+    ]
+  },
+  "thienlyoi": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "k7a2:thien_ly_oi",
+        "stream": true
+      }
+    ]
+  },
+  "ifiamwithyou": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "k7a2:iff-i-am-with-you-jujutsu-kaisen-ost",
+        "stream": true
+      }
+    ]
+  },
+  "smurfcat": {
+    "category": "music",
+    "sounds": [
+      {
+        "name": "k7a2:yt1s.com-alan-walker-the-spectre-zak-conner-hardsyle-remix-smurf-cat",
+        "stream": true
+      }
+    ]
+  },
+  "dangminh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:dangminh",
+        "stream": true
+      }
+    ]
+  },
+  "danh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:danh",
+        "stream": true
+      }
+    ]
+  },
+  "dat": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:dat",
+        "stream": true
+      }
+    ]
+  },
+  "diep": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:diep",
+        "stream": true
+      }
+    ]
+  },
+  "duong": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:duong",
+        "stream": true
+      }
+    ]
+  },
+  "ducanh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:ducanh",
+        "stream": true
+      }
+    ]
+  },
+  "duongminh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:duongminh",
+        "stream": true
+      }
+    ]
+  },
+  "hai": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:hai",
+        "stream": true
+      }
+    ]
+  },
+  "haminh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:haminh",
+        "stream": true
+      }
+    ]
+  },
+  "hoaian": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:hoaian",
+        "stream": true
+      }
+    ]
+  },
+  "khanh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:khanh",
+        "stream": true
+      }
+    ]
+  },
+  "khanhs": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:khanhs",
+        "stream": true
+      }
+    ]
+  },
+  "kieuthao": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:kieuthao",
+        "stream": true
+      }
+    ]
+  },
+  "lam": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:lam",
+        "stream": true
+      }
+    ]
+  },
+  "myan": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:myan",
+        "stream": true
+      }
+    ]
+  },
+  "ngan": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:ngan",
+        "stream": true
+      }
+    ]
+  },
+  "nguyenminh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:nguyenminh",
+        "stream": true
+      }
+    ]
+  },
+  "nguyenphuc": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:nguyenphuc",
+        "stream": true
+      }
+    ]
+  },
+  "nhatminh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:nhatminh",
+        "stream": true
+      }
+    ]
+  },
+  "nplinh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:nplinh",
+        "stream": true
+      }
+    ]
+  },
+  "phuong": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:phuong",
+        "stream": true
+      }
+    ]
+  },
+  "quynh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:quynh",
+        "stream": true
+      }
+    ]
+  },
+  "tai": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:tai",
+        "stream": true
+      }
+    ]
+  },
+  "thai": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:thai1",
+        "stream": true
+      }
+    ]
+  },
+  "thlinh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:thlinh",
+        "stream": true
+      }
+    ]
+  },
+  "tplinh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:tplinh",
+        "stream": true
+      }
+    ]
+  },
+  "uyen": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:uyen",
+        "stream": true
+      }
+    ]
+  },
+  "vhlinh": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:vhlinh",
+        "stream": true
+      }
+    ]
+  },
+  "vuthao": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:vuthao",
+        "stream": true
+      }
+    ]
+  },
+  "k7a2_mixed_voice": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "k7a2:dangminh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:danh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:dat",
+        "stream": true
+      },
+      {
+        "name": "k7a2:diep",
+        "stream": true
+      },
+      {
+        "name": "k7a2:ducanh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:duong",
+        "stream": true
+      },
+      {
+        "name": "k7a2:duongminh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:hai",
+        "stream": true
+      },
+      {
+        "name": "k7a2:haminh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:hoaian",
+        "stream": true
+      },
+      {
+        "name": "k7a2:khanh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:khanhs",
+        "stream": true
+      },
+      {
+        "name": "k7a2:kieuthao",
+        "stream": true
+      },
+      {
+        "name": "k7a2:lam",
+        "stream": true
+      },
+      {
+        "name": "k7a2:myan",
+        "stream": true
+      },
+      {
+        "name": "k7a2:ngan",
+        "stream": true
+      },
+      {
+        "name": "k7a2:nguyenminh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:nguyenphuc",
+        "stream": true
+      },
+      {
+        "name": "k7a2:nhatminh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:nplinh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:phuong",
+        "stream": true
+      },
+      {
+        "name": "k7a2:quynh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:tai",
+        "stream": true
+      },
+      {
+        "name": "k7a2:thai1",
+        "stream": true
+      },
+      {
+        "name": "k7a2:thlinh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:tplinh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:uyen",
+        "stream": true
+      },
+      {
+        "name": "k7a2:vhlinh",
+        "stream": true
+      },
+      {
+        "name": "k7a2:vuthao",
+        "stream": true
+      }
+    ]
+  },
+  "endermanhackwin10s": {
+    "category": "master",
+    "subtitle": "subtitles.endermanhackwin10s",
+    "sounds": [
+      {
+        "name": "k7a2:enderman-hack-win10s",
+        "stream": false
+      }
+    ]
+  },
+  "endermansecret": {
+    "category": "master",
+    "sounds": [
+      {
+        "name": "k7a2:enderman_secret",
+        "stream": false
+      }
+    ]
+  }
+}

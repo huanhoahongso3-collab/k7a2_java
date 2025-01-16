@@ -1,0 +1,7 @@
+{
+  "_fv": 33,
+  "_type": "procedure",
+  "definition": {
+    "procedurexml": "<?xml version=\"1.0\" encoding=\"UTF-8\" standalone=\"no\"?><xml xmlns=\"https://developers.google.com/blockly/xml\"><block deletable=\"false\" type=\"event_trigger\" x=\"134\" y=\"55\"><field name=\"trigger\">no_ext_trigger</field><next><block type=\"execute_command\"><value name=\"command\"><block type=\"text\"><field name=\"TEXT\">clear @p k7a2:k_7_a_2_tool_getting_block 1</field></block></value><value name=\"x\"><block type=\"coord_x\"/></value><value name=\"y\"><block type=\"coord_y\"/></value><value name=\"z\"><block type=\"coord_z\"/></value><next><block type=\"execute_command\"><value name=\"command\"><block type=\"text\"><field name=\"TEXT\">give @p minecraft:chest{display:{Name:\"{\\\"text\\\":\\\"K7A2 Building Block\\\"}\"}, BlockEntityTag:{LootTable:\"k7a2:k_7_a_2_block_loot_table\"}} 1</field></block></value><value name=\"x\"><block type=\"coord_x\"/></value><value name=\"y\"><block type=\"coord_y\"/></value><value name=\"z\"><block type=\"coord_z\"/></value></block></next></block></next></block></xml>"
+  }
+}

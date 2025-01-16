@@ -1,0 +1,46 @@
+{
+  "_fv": 33,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Crafting",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 3,
+    "group": "",
+    "recipeShapeless": false,
+    "recipeSlots": [
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": ""
+      },
+      {
+        "value": "CUSTOM:K7A2WoodPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:K7A2WoodPlanks"
+      },
+      {
+        "value": "CUSTOM:K7A2WoodPlanks"
+      },
+      {
+        "value": "Items.STICK"
+      },
+      {
+        "value": "CUSTOM:K7A2WoodPlanks"
+      }
+    ],
+    "recipeReturnStack": {
+      "value": "CUSTOM:K7A2WoodFence"
+    },
+    "name": "k_7_a_2_wood_fence_recipe",
+    "namespace": "mod"
+  }
+}

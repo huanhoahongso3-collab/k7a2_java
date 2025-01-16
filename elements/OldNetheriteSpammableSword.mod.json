@@ -1,0 +1,33 @@
+{
+  "_fv": 33,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "spam_netherite_sword",
+    "customModelName": "Normal",
+    "name": "Old Netherite Spammable Sword",
+    "specialInfo": [
+      "Spammable?"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "toolType": "Sword",
+    "harvestLevel": 5,
+    "efficiency": 4.0,
+    "attackSpeed": 100.0,
+    "enchantability": 25,
+    "damageVsEntity": 5.0,
+    "usageCount": 10500,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "CUSTOM:K7A2ingot"
+      }
+    ],
+    "immuneToFire": false,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

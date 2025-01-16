@@ -1,0 +1,40 @@
+{
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2024-06-25 20:49:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_planks": {
+    "criteria": {
+      "has_logs": "2024-06-25 20:49:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/redstone_lamp": {
+    "criteria": {
+      "has_glowstone": "2024-06-25 20:47:58 +0700"
+    },
+    "done": true
+  },
+  "k7a2:welcome_to_aether": {
+    "criteria": {
+      "welcome_to_aether": "2024-06-25 20:48:21 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_wood": {
+    "criteria": {
+      "has_log": "2024-06-25 20:49:23 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2024-06-25 20:46:26 +0700",
+      "minecraft:plains": "2024-06-25 20:46:14 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

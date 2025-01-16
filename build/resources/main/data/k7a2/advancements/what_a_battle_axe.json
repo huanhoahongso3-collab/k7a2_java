@@ -1,0 +1,37 @@
+{
+  "display": {
+    "icon": {
+      "item": "k7a2:battle_golden_axe"
+    },
+    "title": {
+      "translate": "advancements.what_a_battle_axe.title"
+    },
+    "description": {
+      "translate": "advancements.what_a_battle_axe.descr"
+    },
+    "frame": "goal",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "what_a_battle_axe": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "k7a2:battle_golden_axe",
+            "count": {
+              "min": 1,
+              "max": 999999999
+            }
+          }
+        ]
+      }
+    }
+  },
+  "rewards": {
+    "experience": 200
+  },
+  "parent": "k7a2:beautiful"
+}

@@ -1,0 +1,29 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    " 4 ",
+    " 7 "
+  ],
+  "key": {
+    "0": {
+      "item": "k7a2:super_k_7_a_2_ingot"
+    },
+    "1": {
+      "item": "k7a2:super_k_7_a_2_ingot"
+    },
+    "2": {
+      "item": "k7a2:super_k_7_a_2_ingot"
+    },
+    "4": {
+      "item": "k7a2:k_7_a_2_stick"
+    },
+    "7": {
+      "item": "k7a2:k_7_a_2_stick"
+    }
+  },
+  "result": {
+    "item": "k7a2:k_7_a_2_pickaxe",
+    "count": 1
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "_fv": 33,
+  "_type": "musicdisc",
+  "definition": {
+    "texture": "9m5rqesg5a_1628128707",
+    "name": "Ma Gaming Rap",
+    "description": "Free Fire",
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "music": {
+      "value": "CUSTOM:magaming"
+    },
+    "specialInfo": [
+      "Autotune :)))))"
+    ],
+    "hasGlow": false
+  }
+}

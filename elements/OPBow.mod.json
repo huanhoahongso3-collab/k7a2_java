@@ -1,0 +1,43 @@
+{
+  "_fv": 33,
+  "_type": "rangeditem",
+  "definition": {
+    "renderType": 0,
+    "texture": "jnpehy29o-5ghtyjxutbfaxcmxnomq4w0di1v0yxogqmz2vv0efazajbhki6audl5wkvm2mabqmamgbp9diivlqrw-h400",
+    "customModelName": "Normal",
+    "name": "K7A2 Bow",
+    "specialInfo": [
+      "Nothing",
+      "just it"
+    ],
+    "creativeTab": {
+      "value": "CUSTOM:K7A2"
+    },
+    "stackSize": 1,
+    "ammoItem": {
+      "value": ""
+    },
+    "shootConstantly": true,
+    "usageCount": 4250,
+    "actionSound": {
+      "value": "entity.arrow.shoot"
+    },
+    "hasGlow": false,
+    "animation": "bow",
+    "enableMeleeDamage": false,
+    "damageVsEntity": 0.0,
+    "bulletPower": 1.0,
+    "bulletDamage": 3.0,
+    "bulletKnockback": 1,
+    "bulletParticles": false,
+    "bulletIgnitesFire": true,
+    "bulletItemTexture": {
+      "value": "CUSTOM:SuperK7A2Ingot"
+    },
+    "bulletModel": "Default",
+    "customBulletModelTexture": "",
+    "onBulletHitsEntity": {
+      "name": "OPBowRangedItemUsed"
+    }
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "k7a2:blocks/dhphuc_log_top",
+    "up": "k7a2:blocks/dhphuc_log_top",
+    "north": "k7a2:blocks/dhphuc_log_side",
+    "east": "k7a2:blocks/dhphuc_log_side",
+    "south": "k7a2:blocks/dhphuc_log_side",
+    "west": "k7a2:blocks/dhphuc_log_side",
+    "particle": "k7a2:blocks/dhphuc_log_top"
+  }
+}

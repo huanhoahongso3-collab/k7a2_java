@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0",
+    "1"
+  ],
+  "key": {
+    "0": {
+      "item": "k7a2:k_7_a_2ingot"
+    },
+    "1": {
+      "item": "k7a2:k_7_a_2ingot"
+    }
+  },
+  "result": {
+    "item": "k7a2:k_7_a_2_stick",
+    "count": 4
+  }
+}
